@@ -3,7 +3,7 @@
 
 ## 第一部分：
 
-* [Android(安卓)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part1/Android)
+* [Android(安卓)](https://github.com/ZZhiQiang/Android-Notes)
 
     * [Android基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android基础知识.md)
     * [Android内存泄漏总结](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android内存泄漏总结.md)
