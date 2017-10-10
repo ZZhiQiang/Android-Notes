@@ -5,7 +5,7 @@
 
 * [Android(安卓)](https://github.com/ZZhiQiang/Android-Notes)
 
-    * [Android基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android基础知识.md)
+    * [Android基础知识](https://github.com/ZZhiQiang/Android-Notes/blob/master/Interview/content/Android基础知识.md)
     * [Android内存泄漏总结](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android内存泄漏总结.md)
     * [Handler内存泄漏分析及解决](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Handler内存泄漏分析及解决.md)
     * [Handler、Looper、Message、MessageQueue基础流程分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/线程通信基础流程分析.md)
